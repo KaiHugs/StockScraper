@@ -1,6 +1,7 @@
 # StockScraper
 Python Stock web scraper outputted on well-formatted excel file 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://im4.ezgif.com/tmp/ezgif-4-5176a52f34.gif)
+
 
 ## Installation
 Install version 3.8 ~ (not tested for other versions of python).  
