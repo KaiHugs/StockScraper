@@ -1,7 +1,7 @@
 # Stock Scraper
 Python Stock web scraper outputted on well-formatted excel file 
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-63cece4722.gif" width="540" height="450" />
+<img src="https://im4.ezgif.com/tmp/ezgif-4-63cece4722.gif" width="720" height="480" />
 
 
 ## Installation
