@@ -251,5 +251,5 @@ if __name__ == "__main__":
         print(e)
     finally:
         sc.convert_xls('output.csv')
-        print("done")
+        print("Done")
         sc.exit()
