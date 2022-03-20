@@ -1,5 +1,5 @@
 # StockScraper
-Python Stock web scraper outputted on well-formatted excel file
+Python Stock web scraper outputted on well-formatted excel file 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Installation
