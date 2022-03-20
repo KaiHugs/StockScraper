@@ -1,10 +1,12 @@
 # StockScraper
 Python Stock web scraper outputted on well-formatted excel file
+![Project Image]
+(https://im4.ezgif.com/tmp/ezgif-4-5176a52f34.gif)
 
-# Installation
-
-=> install version 3.8 ~ ( not tested for earlier versions of python )      
-=> open terminal and type 'pip3 install -r requirements.txt'  
-=> run scrapeit.py file to run the bot 
+## Installation
+Install version 3.8 ~ (not tested for other versions of python).  
+Download and open StockScraper file in IDE.     
+Open terminal and type 'pip3 install -r requirements.txt'.  
+Run the scrapeit.py file to run the bot.
 
 
