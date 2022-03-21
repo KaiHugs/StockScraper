@@ -14,6 +14,6 @@ Python Stock web scraper outputted on well-formatted excel file
 ---
 
 
-![Output](https://im5.ezgif.com/tmp/ezgif-5-a6f72df06c.gif)
+![Output](file:///C:/Users/Hughesk123/Downloads/ezgif-5-389af0b25e.gif)
 
 > Output
