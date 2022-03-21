@@ -6,7 +6,7 @@ Python Stock web scraper outputted on well-formatted excel file
 > Running
 
 ## Installation         
-
+---
                             
 - Install version [3.8](https://www.python.org/downloads/release/python-380/) ~ (not tested for other versions of python).  
 - Download and open StockScraper file in IDE.     
