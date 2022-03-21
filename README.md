@@ -5,6 +5,7 @@ Python Stock web scraper outputted on well-formatted excel file
 
 > Preview
 
+---
 
 ## Installation
 - Install version [3.8](https://www.python.org/downloads/release/python-380/) ~ (not tested for other versions of python).  
