@@ -12,4 +12,7 @@ Python Stock web scraper outputted on well-formatted excel file
 - `pip3 install -r requirements.txt` 
 - Run the scrapeit.py file to run the bot.
 
+---
+
+
 ![Output](https://im5.ezgif.com/tmp/ezgif-5-a6f72df06c.gif)
