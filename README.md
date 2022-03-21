@@ -3,7 +3,7 @@ Python Stock web scraper outputted on well-formatted excel file
 
 ![Alt Text](https://im4.ezgif.com/tmp/ezgif-4-63cece4722.gif)
 
-> Preview
+> Running
 
 ## Installation
                             
@@ -16,3 +16,5 @@ Python Stock web scraper outputted on well-formatted excel file
 
 
 ![Output](https://im5.ezgif.com/tmp/ezgif-5-a6f72df06c.gif)
+
+> Output
