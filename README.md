@@ -1,7 +1,7 @@
 # Stock Scraper
 Python Stock web scraper outputted on well-formatted excel file 
 
-![Alt Text](https://gifyu.com/image/SpH7f)
+![Alt Text](https://s7.gifyu.com/images/ezgif-4-ff40d39a0b.gif)
 
 > Running
 
