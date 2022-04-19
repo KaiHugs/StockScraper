@@ -75,7 +75,7 @@
         <enum>Qt::LeftToRight</enum>
        </property>
        <property name="text">
-        <string>CLICK TO START THE BOT </string>
+        <string>Start Bot </string>
        </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
