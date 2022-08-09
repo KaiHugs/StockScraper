@@ -1,0 +1,5 @@
+openpyxl
+pandas
+pyqt5
+undetected-chromedriver == 3.0.6
+
