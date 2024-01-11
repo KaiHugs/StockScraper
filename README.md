@@ -13,8 +13,7 @@ Python Stock web scraper outputted on well-formatted excel file
 
 ---
 
-
-![Output](https://github.com/KaiHugs/StockScraper/assets/72110026/2cfb2747-7955-47ae-afc0-104c931286f5)
+https://github.com/KaiHugs/StockScraper/assets/72110026/2cfb2747-7955-47ae-afc0-104c931286f5
 
 
 > Output
