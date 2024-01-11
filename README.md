@@ -12,7 +12,9 @@ Python Stock web scraper outputted on well-formatted excel file
 - Run the scrapeit.py file to run the bot.
 
 ---
+https://github.com/KaiHugs/StockScraper/assets/72110026/37ce7644-8c1e-4667-8075-b7b5ac4a7c1d
 
+--- 
 https://github.com/KaiHugs/StockScraper/assets/72110026/2cfb2747-7955-47ae-afc0-104c931286f5
 
 
